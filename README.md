@@ -1,1 +1,1 @@
-https://jacksonmossman.github.io/IntroToPhysics/.
+https://jacksonmossman.github.io/IntroToPhysics/docs/.
